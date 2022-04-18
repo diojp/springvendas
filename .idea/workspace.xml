@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="011deb1e-624e-4ce1-85b4-0e0a04c16420" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/dio/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/dio/repository/ClientesRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/dio/service/ClientesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-development.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-production.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dio/Configuracao.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dio/VendasAplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/dio/VendasAplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-development.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-production.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-development.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-production.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/github/dio/Configuracao.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/io/github/dio/VendasAplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/dio/VendasAplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendas.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,19 +29,29 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
     </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27LfWs9RXnIHrF1fNcQyYnuAVVw" />
   <component name="ProjectLevelVcsManager">
@@ -41,13 +59,22 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="restartRequiresConfirmation" value="false" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dio/Documents/projetos_spring/vendas&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dio\Documents\projetos_spring\vendas" />
+      <recent name="C:\Users\Dio\Documents\projetos_spring" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.dio" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="VendasAplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -69,6 +96,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -81,31 +109,5 @@
       <updated>1649104321329</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1245" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1649373274560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1245" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1649373274560" />
-    <state width="914" height="111" key="GridCell.Tab.0.bottom" timestamp="1649384473782">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="111" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649384473782" />
-    <state width="914" height="111" key="GridCell.Tab.0.center" timestamp="1649384473782">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="111" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649384473782" />
-    <state width="914" height="111" key="GridCell.Tab.0.left" timestamp="1649384473782">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="111" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649384473782" />
-    <state width="914" height="111" key="GridCell.Tab.0.right" timestamp="1649384473782">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="111" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649384473782" />
-    <state x="666" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1649371673782">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="666" y="359" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649371673782" />
   </component>
 </project>
